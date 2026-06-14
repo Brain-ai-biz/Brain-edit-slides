@@ -7,7 +7,7 @@
 גוררים, מקלידים, מדביקים צילומי מסך - ושומרים. בלי שרת, בלי התקנות,
 הכל נשאר בקובץ HTML אחד.
 
-<video src="assets/demo.mp4" autoplay loop muted playsinline width="100%"></video>
+![Brain Edit Slides - מצב עריכה בפעולה](assets/demo.gif)
 
 ## מה אפשר לעשות במצב עריכה
 
